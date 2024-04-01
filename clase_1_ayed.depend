@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1711365138 source:c:\users\nico_\desktop\clase_1_ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"persona.h"
+	"carton.h"
+
+1711365432 source:c:\users\nico_\desktop\clase_1_ayed\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1711370380 c:\users\nico_\desktop\clase_1_ayed\persona.h
+	"carton.h"
+
+1711365082 source:c:\users\nico_\desktop\clase_1_ayed\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+
+1711365526 c:\users\nico_\desktop\clase_1_ayed\carton.h
+
+1711994676 source:c:\users\maxim\onedrive\escritorio\ayed-nico\unidad 0\clase_1_ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"persona.h"
+	"carton.h"
+	"sorteo.h"
+
+1711850509 c:\users\maxim\onedrive\escritorio\ayed-nico\unidad 0\clase_1_ayed\persona.h
+	"carton.h"
+
+1711850925 c:\users\maxim\onedrive\escritorio\ayed-nico\unidad 0\clase_1_ayed\carton.h
+
+1711854936 source:c:\users\maxim\onedrive\escritorio\ayed-nico\unidad 0\clase_1_ayed\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1711989049 source:c:\users\maxim\onedrive\escritorio\ayed-nico\unidad 0\clase_1_ayed\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+
+1711994159 source:c:\users\maxim\onedrive\escritorio\ayed-nico\unidad 0\clase_1_ayed\sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"sorteo.h"
+	"persona.h"
+
+1711994250 c:\users\maxim\onedrive\escritorio\ayed-nico\unidad 0\clase_1_ayed\sorteo.h
+	"persona.h"
+
+1711989049 source:c:\users\maxim\onedrive\documentos\github\quiniela\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+
+1711850925 c:\users\maxim\onedrive\documentos\github\quiniela\carton.h
+
+1712006657 source:c:\users\maxim\onedrive\documentos\github\quiniela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"persona.h"
+	"carton.h"
+	"sorteo.h"
+
+1711850509 c:\users\maxim\onedrive\documentos\github\quiniela\persona.h
+	"carton.h"
+
+1711994250 c:\users\maxim\onedrive\documentos\github\quiniela\sorteo.h
+	"persona.h"
+
+1711854936 source:c:\users\maxim\onedrive\documentos\github\quiniela\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1711994159 source:c:\users\maxim\onedrive\documentos\github\quiniela\sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"sorteo.h"
+	"persona.h"
+
